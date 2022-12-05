@@ -62,7 +62,7 @@
             // 
             this.trackBar1.AutoSize = false;
             this.trackBar1.Cursor = System.Windows.Forms.Cursors.Default;
-            this.trackBar1.Location = new System.Drawing.Point(721, 25);
+            this.trackBar1.Location = new System.Drawing.Point(96, 12);
             this.trackBar1.Maximum = 200;
             this.trackBar1.Minimum = 1;
             this.trackBar1.Name = "trackBar1";
@@ -78,7 +78,7 @@
             // 
             this.trackBar2.AutoSize = false;
             this.trackBar2.Cursor = System.Windows.Forms.Cursors.Default;
-            this.trackBar2.Location = new System.Drawing.Point(102, 25);
+            this.trackBar2.Location = new System.Drawing.Point(719, 12);
             this.trackBar2.Maximum = 180;
             this.trackBar2.Minimum = -180;
             this.trackBar2.Name = "trackBar2";
